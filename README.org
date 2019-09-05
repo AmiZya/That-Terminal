@@ -1,3 +1,3 @@
-This repos doesn't contain code. It contains only a package (.app) of That Terminal for macOS.
+This repos doesn't contain code. It contains only a package (.app) of That Terminal for macOS. Check "Releases" Tab.
 
 Check the video series if you're interested in how this software is made: https://www.youtube.com/watch?v=9e38ORrkbtc
